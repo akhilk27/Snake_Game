@@ -24,29 +24,32 @@ This is a simple Snake game built using Python and the Turtle module.
 
 3. Create a Virtual Environment (Optional but Recommended):
 
-```
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-```
+   ```
+   python -m venv venv
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   ```
 
 4. Install the Required Libraries:
 
-Ensure you have the Turtle module installed. It's included in the Python standard library, so no additional installation is required for most users. If using an IDE like PyCharm, it should work out of the box.
+   Ensure you have the Turtle module installed. It's included in the Python standard library, so no additional installation is required for most users. If using an IDE like PyCharm, it should work out of the box.
+   
 
-5. Run the Game:
+6. Run the Game:
 
-```
-python main.py
-```
+   ```
+   python main.py
+   ```
 
 ## Requirements
 
 Python 3.x
+
 Turtle (part of the Python standard library)
 
 ## Notes
 
 Make sure your Python installation includes the Turtle module.
+
 If you encounter issues, ensure that all files (main.py, snake.py, food.py, score.py) are in the same directory.
 
 
