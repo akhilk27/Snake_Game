@@ -44,7 +44,9 @@ Python 3.x
 Turtle (part of the Python standard library)
 
 Notes
+
 Make sure your Python installation includes the Turtle module.
+
 If you encounter issues, ensure that all files (main.py, snake.py, food.py, score.py) are in the same directory.
 
 
