@@ -35,7 +35,9 @@ Ensure you have the Turtle module installed. It's included in the Python standar
 
 5. Run the Game:
 
-```python main.py```
+```
+python main.py
+```
 
 Requirements
 Python 3.x
