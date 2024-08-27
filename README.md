@@ -39,14 +39,14 @@ Ensure you have the Turtle module installed. It's included in the Python standar
 python main.py
 ```
 
-Requirements
+## Requirements
+
 Python 3.x
 Turtle (part of the Python standard library)
 
-Notes
+## Notes
 
 Make sure your Python installation includes the Turtle module.
-
 If you encounter issues, ensure that all files (main.py, snake.py, food.py, score.py) are in the same directory.
 
 
